@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Movie Recommendation System",
+    "desc": "a Streamlit-based application, enhances your movie-watching experience by providing personalized recommendations tailored to your preferences.",
+    "image": "movie_rec",
+    "category": "native_android",
+    "links": {
+      "view": "https://github.com/Abhiram-Laha/Movie-Recommendation-System",
+      "code": "https://github.com/Abhiram-Laha/Movie-Recommendation-System"
+    }
+  },
+  {
+    "name": "Bollywood Celebrity Classifier",
+    "desc": "A Bollywood Celebrity Classifier is a type of machine learning model that can identify which Bollywood celebrity is in an image.",
+    "image": "bolly",
+    "category": "native_android",
+    "links": {
+      "view": "https://github.com/Abhiram-Laha/Bollywood-Celebrity-Classifier",
+      "code": "https://github.com/Abhiram-Laha/Bollywood-Celebrity-Classifier"
+    }
+  },
+  {
+    "name": "Face Mask Detection",
+    "desc": "Face mask detection is a computer vision task to identify whether a person is wearing a face mask or not.",
+    "image": "face",
+    "category": "native_android",
+    "links": {
+      "view": "https://github.com/Abhiram-Laha/Sync-Internship/tree/main/Task_2_Face_Mask_Detection",
+      "code": "https://github.com/Abhiram-Laha/Sync-Internship/tree/main/Task_2_Face_Mask_Detection"
+    }
+  },
+  {
+    "name": "Basic Calculator",
+    "desc": "CalcMate, a user-friendly calculator app built with simplicity in mind, helps you crunch numbers effortlessly. .",
+    "image": "cal",
+    "category": "library",
+    "links": {
+      "view": "https://abhiram-laha.github.io/Calculator/",
+      "code": "https://github.com/Abhiram-Laha/Calculator"
+    }
+  }
+]
