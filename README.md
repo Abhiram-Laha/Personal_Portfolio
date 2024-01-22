@@ -24,9 +24,9 @@ Include some screenshots or GIFs showcasing different sections of your website.
 
 ## Contact
 
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
-- **Twitter**: [Your Twitter Profile](https://twitter.com/yourusername)
+- **Email**: abhiramlaha2020@gmail.com
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/abhiramlaha/)
+- **Twitter**: [Your Twitter Profile](https://twitter.com/LahaAbhiram)
 
 Feel free to reach out if you have any questions or just want to connect!
 
