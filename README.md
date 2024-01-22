@@ -19,8 +19,11 @@ This repository contains the source code for my personal portfolio website. The 
 
 Include some screenshots or GIFs showcasing different sections of your website.
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+
+<img src = "assets/sreenshots/home.gif">
+<img src = "assets/sreenshots/about.png">
+<img src = "assets/sreenshots/edu.png">
+
 
 ## Contact
 
