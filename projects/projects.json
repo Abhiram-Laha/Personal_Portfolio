@@ -1,5 +1,15 @@
 [
   {
+    "name": "Personal Portfolio",
+    "desc": "The website is designed to showcase my skills, projects, and experiences in web development.",
+    "image": "portfolio",
+    "category": "portfolio",
+    "links": {
+      "view": "https://abhiramlaha.netlify.app/",
+      "code": "https://github.com/Abhiram-Laha/Personal_Portfolio"
+    }
+  },
+  {
     "name": "Movie Recommendation System",
     "desc": "a Streamlit-based application, enhances your movie-watching experience by providing personalized recommendations tailored to your preferences.",
     "image": "movie_rec",
@@ -27,6 +37,16 @@
     "links": {
       "view": "https://github.com/Abhiram-Laha/Sync-Internship/tree/main/Task_2_Face_Mask_Detection",
       "code": "https://github.com/Abhiram-Laha/Sync-Internship/tree/main/Task_2_Face_Mask_Detection"
+    }
+  },
+  {
+    "name": "EasyWeather",
+    "desc": "EasyWeather is a lightweight weather application crafted with HTML, CSS, and JS designed to provide weather conditions.",
+    "image": "easyweather",
+    "category": "library",
+    "links": {
+      "view": "https://abhiram-laha.github.io/EasyWeather/",
+      "code": "https://github.com/Abhiram-Laha/EasyWeather"
     }
   },
   {
