@@ -30,13 +30,13 @@
     }
   },
   {
-    "name": "Face Mask Detection",
-    "desc": "Face mask detection is a computer vision task to identify whether a person is wearing a face mask or not.",
-    "image": "face",
-    "category": "native_android",
+    "name": "Daily Junction",
+    "desc": "Daily Junction, is a Comprehensive platform for staying informed about the latest news across a variety of categories.",
+    "image": "news",
+    "category": "web",
     "links": {
-      "view": "https://github.com/Abhiram-Laha/Sync-Internship/tree/main/Task_2_Face_Mask_Detection",
-      "code": "https://github.com/Abhiram-Laha/Sync-Internship/tree/main/Task_2_Face_Mask_Detection"
+      "view": "https://dailyjunction.netlify.app/",
+      "code": "https://github.com/Abhiram-Laha/DailyJunction"
     }
   },
   {
