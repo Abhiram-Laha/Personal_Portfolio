@@ -40,6 +40,16 @@
     }
   },
   {
+    "name": "Expense Tracker",
+    "desc": "The Expense Tracker is a web-based application designed to help users keep track of their expenses. ",
+    "image": "tracker",
+    "category": "library",
+    "links": {
+      "view": "https://expense-tracker-websitee.netlify.app/",
+      "code": "https://github.com/Abhiram-Laha/Expense-Tracker"
+    }
+  },
+  {
     "name": "EasyWeather",
     "desc": "EasyWeather is a lightweight weather application crafted with HTML, CSS, and JS designed to provide weather conditions.",
     "image": "easyweather",
@@ -48,15 +58,6 @@
       "view": "https://easyweatherr.netlify.app/",
       "code": "https://github.com/Abhiram-Laha/EasyWeather"
     }
-  },
-  {
-    "name": "Basic Calculator",
-    "desc": "CalcMate, a user-friendly calculator app built with simplicity in mind, helps you crunch numbers effortlessly. .",
-    "image": "cal",
-    "category": "library",
-    "links": {
-      "view": "https://abhiram-laha.github.io/Calculator/",
-      "code": "https://github.com/Abhiram-Laha/Calculator"
-    }
   }
+  
 ]
