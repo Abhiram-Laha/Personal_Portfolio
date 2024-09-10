@@ -1,12 +1,12 @@
 [
   {
-    "name": "Crop Recommendation System ",
-    "desc": "A Flask-Based Application, Recommends Optimum Crops To Be Cultivated By Farmers Based On Several Parameters.",
-    "image": "crop",
-    "category": "Crop Recommendation System ",
+    "name": "Movie Recommendation System",
+    "desc": "a Streamlit-based application, enhances your movie-watching experience by providing personalized recommendations tailored to your preferences.",
+    "image": "movie_rec",
+    "category": "native_android",
     "links": {
-      "view": "https://github.com/Abhiram-Laha/Crop-Recommendation-System",
-      "code": "https://github.com/Abhiram-Laha/Crop-Recommendation-System"
+      "view": "https://github.com/Abhiram-Laha/Movie-Recommendation-System",
+      "code": "https://github.com/Abhiram-Laha/Movie-Recommendation-System"
     }
   },
   {
