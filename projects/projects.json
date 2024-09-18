@@ -10,13 +10,13 @@
     }
   },
   {
-    "name": "Movie Recommendation System",
-    "desc": "a Streamlit-based application, enhances your movie-watching experience by providing personalized recommendations tailored to your preferences.",
-    "image": "movie_rec",
-    "category": "native_android",
+    "name": "Potato Disease Classification",
+    "desc": "CNN model for potato disease classification, built during my Ardent internship to improve crop yield",
+    "image": "potato_dis",
+    "category": "deep learning",
     "links": {
-      "view": "https://github.com/Abhiram-Laha/Movie-Recommendation-System",
-      "code": "https://github.com/Abhiram-Laha/Movie-Recommendation-System"
+      "view": "https://github.com/Abhiram-Laha/Potato-Disease-Classification",
+      "code": "https://github.com/Abhiram-Laha/Potato-Disease-Classification"
     }
   },
   {
