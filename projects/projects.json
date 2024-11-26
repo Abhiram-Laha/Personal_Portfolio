@@ -5,7 +5,7 @@
     "image": "movie_rec",
     "category": "native_android",
     "links": {
-      "view": "https://github.com/Abhiram-Laha/Movie-Recommendation-System",
+      "view": "https://movie-suggest.streamlit.app/",
       "code": "https://github.com/Abhiram-Laha/Movie-Recommendation-System"
     }
   },
