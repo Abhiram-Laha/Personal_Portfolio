@@ -1,4 +1,13 @@
-[
+[ {
+  "name": "CropQuest",
+  "desc": "About CropQuest is a data-driven web application designed to enhance agricultural productivity. ",
+  "image": "CropQuest",
+  "category": "library",
+  "links": {
+    "view": "https://cropquest.onrender.com/",
+    "code": "https://github.com/Abhiram-Laha/CropQuest"
+  }
+  },
   {
     "name": "Movie Recommendation System",
     "desc": "a Streamlit-based application, enhances your movie-watching experience by providing personalized recommendations tailored to your preferences.",
