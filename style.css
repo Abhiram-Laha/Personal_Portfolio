@@ -319,6 +319,18 @@ header .navbar ul li a:hover{
 }
 /* work section ends */
 
+
+
+
+
+
+
+
+
+
+
+
+
 /* common media queries starts*/
 @media(max-width:450px){
   html{
@@ -351,3 +363,4 @@ header .navbar ul li a:hover{
   top: calc(100% - 12rem);
 }
 /* scroll top ends */
+
